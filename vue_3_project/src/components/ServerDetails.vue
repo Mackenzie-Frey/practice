@@ -12,6 +12,8 @@
 
 </script>
 
-<style>
-
+<style scoped>
+  ul {
+    border: 12px solid blue;
+  }
 </style>
